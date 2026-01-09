@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @hbamoriya
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on sde roles and data scientist roles
-- 📫 How to reach me mail id - hbamoriya@ch.iitr.ac.in
-
-<!---
-hbamoriya/hbamoriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👋 Hi, I’m Himanshu Bamoriya
+* 🧠 Backend Software Engineer working on scalable, event-driven systems
+* 🛠️ Primary stack: Go, Kafka, PostgreSQL, Redis, distributed systems
+* 🚀 Interested in backend architecture, system design, and performance engineering
+* 🤝 Open to collaborating on backend, platform, and distributed systems projects
+* 📫 Reach me at: [himanshu.bamoriyahb@gmail.com](mailto:himanshu.bamoriyahb@gmail.com)
